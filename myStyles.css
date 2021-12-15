@@ -1,0 +1,103 @@
+/*All style comes here*/
+#mainBody{
+    background-color:#eee;
+}
+/*styling the right side of container*/
+.container{
+    margin: auto;
+}
+
+/*Styling the left div*/
+.leftDiv{
+    text-align: center;
+    padding: 270px;
+    font-family: Roboto Condensed sans-serif;
+}
+
+.leftDiv p{
+    padding: 50px;
+    font-size: large;
+}
+
+
+
+/*Styling the right div*/
+.sideDiv{
+background-image: url("images/img4.JPG");
+margin: 0;
+}
+
+/*Button to view work*/
+#workBtn{
+    border-radius: 25px;
+    height: 50px;
+    width: 150px;
+    background-color: white;
+}
+
+#workBtn:hover{
+    background-color: antiquewhite;
+}
+
+/*Next div*/
+.secondDiv{
+    width: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+/*Works div*/
+.container2{
+    margin: 20px;
+}
+.work1{
+    background-image: url("images/img9.JPG");
+    padding: 250px;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+
+.work2{
+    background-image: url("images/img8.JPG");
+    padding: 250px;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.work3{
+    background-image: url("images/img1.JPG");
+    padding: 250px;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.work4{
+    background-image: url("images/img7.JPG");
+    padding: 250px;
+    margin: 15px;
+    border-radius: 20px;
+}
+.work5{
+    background-image: url("images/img5.JPG");
+    padding: 250px;
+    margin: 15px;
+    border-radius: 20px;
+}
+.work6{
+    background-image: url("images/img6.JPG");
+    padding: 250px;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+#lastDiv{
+    text-align: center;
+    color: black;
+}
+
+footer{
+    text-align: center;
+}
